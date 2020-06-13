@@ -4,10 +4,10 @@ Refactoring means to improve the structure of an existing code. It does not inte
 Refactoring the code for the Horiseon website will add things like reader accesibility and to make the code cleaner and easier to read.
 
 ## Horiseon
-
+```
 Horiseon is a marketing agency. The purpose of their company is to help companies and businesses boost their presence online. 
 This will help attract more customers by bringing them to their website.
-
+```
 ## Work Done
 ```
 I added alt attributes to the images on the page so that if their browser couldn't load images, there would be a description of what the image may be.
